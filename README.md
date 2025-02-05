@@ -9,12 +9,7 @@ This repository contains the code and data for the project **"Assessing Bias in 
 1. [Project Overview](#project-overview)
 2. [Data Sources](#data-sources)
 3. [Methodology](#methodology)
-4. [Repository Structure](#repository-structure)
-5. [Installation and Setup](#installation-and-setup)
-6. [Usage](#usage)
-7. [Results](#results)
-8. [Contributing](#contributing)
-9. [License](#license)
+4. [Installation and Setup](#installation-and-setup)
 
 ---
 
